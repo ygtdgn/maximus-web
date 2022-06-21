@@ -1,0 +1,111 @@
+
+
+
+
+#section-c .p-div {
+    padding-top: 19.6rem;
+    padding-bottom: 8.8rem;
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+
+#section-c div p {
+    text-align: left;
+    font-size: 1.8rem;
+}
+
+#section-c img {
+    width: 35rem;
+    height: auto;
+    margin-top: 1.8rem;
+}
+
+#section-c div .sol-kaydırma {
+    float: left;
+    padding: 0 10px 10px 0;
+}
+
+<section id="section-h">
+            <div class="container-h">
+                <h2 class="section-başlık-6">
+                    Bize Ulaşın
+                </h2>
+                <form id="iletişim-formu">
+                    <div class="form-group">
+                        <input type="text" id="name" placeholder="Name">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" id="mail" placeholder="E-Mail">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" id="phone" placeholder="Phone">
+                    </div>
+                    <div class="form-group">
+                        <textarea id="message" rows="5" placeholder="Message"></textarea>
+                    </div>
+                </form>
+            </div>
+        </section>
+
+#section-h .section-başlık-6 {
+    font-size: 3rem;
+    font-weight: bolder;
+}
+
+#iletişim-formu {
+    width: 70%;
+    margin: 0 auto;
+    text-align: left;
+    color: #fff;
+}
+
+.form-group {
+    border: 1px solid #e9ecef;
+    padding-bottom: 2rem;
+    margin-bottom: 3rem;
+}
+
+.form-group input,
+.form-group textarea {
+    border: none;
+    width: 100%;
+    display: block;
+    font-size: 2rem;
+    background-color: #333;
+    color: #fff;
+}
+
+.form-group input:focus {
+    outline: 0;
+}
+
+.form-group textarea:focus {
+    outline: 0;
+}
+
+  padding-right: 7rem;
+    padding-left: 0rem;
+    padding-top: 7rem;
+    padding-bottom: 0rem;
+    font-size: 1.5rem;
+    border-bottom: 2px solid #fff;
+    margin-right: 10rem;
+    margin-left: 10rem;
+    margin-bottom: 0rem;
+
+           <div class="cont-element">
+                                <i class="fas fa-phone-alt"></i>
+                                <a href="tel:+1234567890">123-456-7890</a>
+                            </div>
+
+
+
+
+                            
+                             <section id="section-b">
+            <div class="content">
+                <h2>Sponsorlarımız</h2>
+                <p> <img src="img/tekyaz-logo-h2-350x163.png" alt="tekyaz-logo"> </p>
+
+            </div>
+        </section>
